@@ -1,0 +1,14 @@
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\bin\Debug\netcoreapp2.1\MegaCoreBackEnd.deps.json
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\bin\Debug\netcoreapp2.1\MegaCoreBackEnd.runtimeconfig.json
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\bin\Debug\netcoreapp2.1\MegaCoreBackEnd.runtimeconfig.dev.json
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\bin\Debug\netcoreapp2.1\MegaCoreBackEnd.dll
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.csprojAssemblyReference.cache
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.csproj.CoreCompileInputs.cache
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.RazorAssemblyInfo.cache
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.RazorAssemblyInfo.cs
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.AssemblyInfoInputs.cache
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.AssemblyInfo.cs
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.RazorTargetAssemblyInfo.cache
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\bin\Debug\netcoreapp2.1\MegaCoreBackEnd.pdb
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.dll
+D:\Project\MegaCoreBackEnd\MegaCoreBackEnd\obj\Debug\netcoreapp2.1\MegaCoreBackEnd.pdb
